@@ -1,0 +1,14 @@
+{
+  "type": "tag",
+  "categories": {
+    "Besoins": [],
+    "Contraintes": [],
+    "Acteurs": []
+  },
+  "pool": ["Mesurer la température", "Budget 50€", "Élèves du collège", "Étanchéité des capteurs", "Professeurs"],
+  "correct": {
+    "Besoins": ["Mesurer la température"],
+    "Contraintes": ["Budget 50€", "Étanchéité des capteurs"],
+    "Acteurs": ["Élèves du collège", "Professeurs"]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "qcm",
+  "questions": [
+    {
+      "q": "Quel est l'objectif principal du projet Thermo'Mare ?",
+      "a": [
+        "Mesurer la température et surveiller la mare",
+        "Décorer la mare",
+        "Peindre des poissons"
+      ],
+      "c": 0
+    },
+    {
+      "q": "Quel type de capteurs doit-on utiliser ?",
+      "a": [
+        "Capteurs étanches",
+        "Capteurs lumineux",
+        "Capteurs sonores"
+      ],
+      "c": 0
+    }
+  ]
+}

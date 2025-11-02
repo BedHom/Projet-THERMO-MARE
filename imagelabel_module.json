@@ -1,0 +1,5 @@
+{
+  "type": "imagelabel",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/440px-Albert_Einstein_Head.jpg",
+  "labels": ["Einstein", "Moustache"]
+}

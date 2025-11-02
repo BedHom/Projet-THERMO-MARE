@@ -1,0 +1,5 @@
+{
+  "type": "gapfill",
+  "text": "La température de l'eau est de {25} degrés. Une alerte est déclenchée si elle dépasse {30} degrés.",
+  "blanks": ["25", "30"]
+}

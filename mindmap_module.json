@@ -1,0 +1,8 @@
+{
+  "type": "mindmap",
+  "data": {
+    "Causes": ["Canicule", "Capteurs défectueux"],
+    "Effets": ["Mort de poissons", "Augmentation de bactéries"],
+    "Contraintes": ["Budget limité", "Respect de la faune"]
+  }
+}

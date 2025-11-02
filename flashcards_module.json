@@ -1,0 +1,8 @@
+{
+  "type": "flashcards",
+  "cards": [
+    {"term": "Capteur étanche", "def": "Capteur protégé contre l’eau et l’humidité."},
+    {"term": "Arduino", "def": "Microcontrôleur programmable utilisé pour prototyper."},
+    {"term": "Bluetooth", "def": "Protocole de communication sans fil à courte portée."}
+  ]
+}
